@@ -1,6 +1,18 @@
+# sae-lens # dafuq
 transformer_lens
 einops
+tqdm
+pydantic
 jaxtyping
+transformers
+datasets
 torch
+torchvision
+numpy
+scipy
+ipython
+ipykernel
+matplotlib
+scikit-learn
 ipywidgets
 git+https://github.com/callummcdougall/CircuitsVis.git#subdirectory=python
