@@ -1,0 +1,6 @@
+transformer_lens
+einops
+jaxtyping
+torch
+ipywidgets
+git+https://github.com/callummcdougall/CircuitsVis.git#subdirectory=python
