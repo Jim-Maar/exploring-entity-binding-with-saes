@@ -1,3 +1,7 @@
 venv
 .venv
-
+.DS_Store
+activations_capital/
+activations_fruit/
+__pycache__/
+*.pyc
