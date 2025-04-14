@@ -1,4 +1,5 @@
 transformer_lens
+sae-lens
 einops
 jaxtyping
 torch
