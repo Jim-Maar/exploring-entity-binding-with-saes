@@ -1,5 +1,6 @@
 # sae-lens # dafuq
 transformer_lens
+sae-lens
 einops
 tqdm
 pydantic
